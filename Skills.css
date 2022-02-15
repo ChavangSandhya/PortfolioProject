@@ -1,0 +1,59 @@
+.Skills{
+  font-size:18px;
+  margin-left:50px;
+  margin-right:15px;;
+  position:absolute;
+  margin-top:-130px;
+  }
+.Skills>label>h1{
+    font-size:30px;
+text-align: left;
+color:blue;
+margin-left:20px;
+
+}
+html,body{
+  scroll-behavior: smooth;
+  
+}
+.Tools{
+  margin-top:1000px;
+  position:absolute;
+  margin-left:50px;
+ margin-right:20px;
+ margin-bottom:10px;
+ font-size:20px;
+}
+.Languages{
+  margin-top:1050px;
+   
+  position:absolute;
+ margin-left:50px;
+ margin-right:20px;
+ margin-bottom:10px;
+ font-size:20px;
+}
+.opsys{
+  margin-top:1120px;
+  position:absolute; 
+  margin-left:50px;
+ margin-right:20px;
+ margin-bottom:10px;
+ font-size:20px;
+}
+.techskills{
+  margin-top:1210px;
+  position:absolute; 
+  margin-left:50px;
+  font-size:20px;
+ margin-right:20px;
+ 
+}
+.db{
+  margin-top:1170px;
+  font-size:20px;
+  position:absolute; 
+  margin-left:50px;
+ margin-right:20px;
+ margin-bottom:10px;
+}

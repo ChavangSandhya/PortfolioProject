@@ -1,0 +1,138 @@
+
+ h1{ 
+    margin-left:300px;
+    margin-top:200px;
+    color:lightcoral;
+    font-size:80px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-right:0px;
+     
+}
+img{
+    height:600px;
+    margin-right:30%;
+    margin-top:-380px;
+    width:550px;
+    
+     margin-left:650px;
+     
+}
+.describe{
+    margin-top:-230px;
+    margin-left:320px;
+    font-size:18px;
+     
+}
+#btn{
+    
+    background-color:darkgoldenrod;
+    margin-left:130px;
+    margin-top:40px;
+    font-size:20px;
+    padding:20px;
+    font-weight: bold;
+     margin-bottom:30px;
+}
+.logo{
+    margin-left:20px;
+    margin-top:-10px;
+    margin-right:0px;
+     height: 100px;
+     width:100px;
+}
+.projects{
+    margin-top:1290px;
+    margin-left:30px;
+    margin-right:20px;
+    position:absolute;
+font-size: 20px;
+}
+.experience>label>h2{font-size:30px;
+color:blue;
+}
+.projects>h2{
+    font-size:30px;
+    color:blue;
+}
+.setbackground{
+    background-color: paleturquoise;
+    height:100px;
+    background-size:auto;
+    width:fit-content;
+ 
+}
+.experience{
+    position: absolute;
+    margin-left:30px;
+    margin-right:20px;
+    margin-top:1700px;
+    font-size: 20px;
+}
+Html,body{
+   background-position:80%,80%,80%,80%; 
+   scroll-behavior: smooth;
+    background-color: rgb(229, 236, 238);
+    height:100%;
+    font-family:Georgia,'Times New Roman', Times, serif;
+ }
+  
+ .navEle{
+ 
+ font-size: 22px;
+ margin-top:-40px;
+ height:30px;
+ width:1600px;
+ 
+ background: -o-linear-gradient();
+  
+ }
+a{
+ 
+    text-decoration:none;
+    margin-left:200px;
+    margin-right:-170px;
+}
+a:hover{
+    color:blue;
+    cursor: pointer;
+    
+     
+}
+<!--css for AboutMe-->
+.details{
+    margin-left:180px;
+    height:660px;
+    margin-top:0px;
+    width:10px;
+    background-color: lightblue;
+    border:1px solid black;
+padding:40px 40px 40px 40px;
+ text-align:left;
+ font-size: 20px;
+ position:relative;
+ color:black;
+}
+ .Education>label>h2
+ {font-size:30px;
+color:blue;
+}
+.Education{
+    position:absolute;
+    margin-right:10px;
+    font-size:18px;
+    margin-top:-770px;
+    margin-left:650px;
+color:black;
+}
+.certAwards{
+    position:absolute;
+    margin-left:650px;
+    margin-top:-500px;
+    font-size:18px;
+}
+.certAwards>label>h2{
+    color:blue;
+    font-size:30px;
+}
+
+   

@@ -1,0 +1,8 @@
+html,body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+}
+body>div>label>h2{
+    font-size:30px;
+    color:blue;
+}
