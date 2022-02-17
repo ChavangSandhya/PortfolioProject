@@ -1,7 +1,7 @@
 
  h1{ 
-    margin-left:300px;
-    margin-top:200px;
+    margin-left:100px;
+    margin-top:140px;
     color:lightcoral;
     font-size:80px;
      font-family:Georgia, 'Times New Roman', Times, serif;
@@ -11,22 +11,23 @@
 img{
     height:600px;
     margin-right:30%;
-    margin-top:-380px;
-    width:550px;
+    margin-top:-400px;
+    width:430px;
     
      margin-left:650px;
      
 }
 .describe{
     margin-top:-230px;
-    margin-left:320px;
+    margin-left:200px;
     font-size:18px;
+    text-align: justify;
      
 }
 #btn{
     
     background-color:darkgoldenrod;
-    margin-left:130px;
+    margin-left:20px;
     margin-top:40px;
     font-size:20px;
     padding:20px;
